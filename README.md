@@ -12,9 +12,14 @@ This is intended to be used with mods like [The Endless Dungeon](https://steamco
 
 ## What was changed
 
-Blacksmiths from acts 1, 2, 3, 4 and Mapworks have had their Monster data altered:
+Blacksmiths from acts 1, 2, 3, 4 and Mapworks were altered:
 
-1. Their minimum inventory levels were removed (Behavior tab)
-2. A single roll of the MERCHANT_GENERAL_INVENTORY treasure table was added (Treasure tab)
+1. Their minimum inventory levels were removed (Monster data, Behavior tab)
+2. A single roll of the MERCHANT_GENERAL_INVENTORY treasure table was added (respective Spawn Classes)
+3. A MERCHANT_BAG was added as Inventory to each blacksmith (Monster data)
 
-Note that #2 was unnecessary for the Mapworks vendor as he already offers consumables natively.
+The Dungeon data for the five hubs were also modified:
+
+1. Set area level range from 1 to 100.
+
+Note that #2 and #3 were unnecessary for the Mapworks vendor as he already offers consumables natively.
