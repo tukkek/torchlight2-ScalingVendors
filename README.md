@@ -18,8 +18,8 @@ Blacksmiths from acts 1, 2, 3, 4 and Mapworks were altered:
 2. A single roll of the MERCHANT_GENERAL_INVENTORY treasure table was added (respective Spawn Classes)
 3. A MERCHANT_BAG was added as Inventory to each blacksmith (Monster data)
 
+Note that #2 and #3 were unnecessary for the Mapworks vendor as he already offers consumables by default.
+
 The Dungeon data for the five hubs were also modified:
 
 1. Set area level range from 1 to 100.
-
-Note that #2 and #3 were unnecessary for the Mapworks vendor as he already offers consumables natively.
