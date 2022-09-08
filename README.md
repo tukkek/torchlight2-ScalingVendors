@@ -4,6 +4,8 @@ Blacksmith's items now scale with player level, from Act 1 to Act 4 and Mapworks
 
 This is intended to be used with mods like [The Endless Dungeon](https://steamcommunity.com/sharedfiles/filedetails/?id=160404095) or [The Toy Collector](https://steamcommunity.com/sharedfiles/filedetails/?id=138078507) and similar (or merge-mods that contain those) that either unlock infinitely-scaling play from Act 1 or that unlock Mapworks early.
 
+For feedback and discussion, [join the Discord](https://discord.gg/5sXXcwPCSP)!
+
 ## How to install
 
 **Steam workshop version:** if you own the game on Steam, simply open the [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2500774315) and hit the "subscribe" button. Next time you launch the game, enable the mod as normal through the official Mod Launcher.
